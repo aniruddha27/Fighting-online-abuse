@@ -1,3 +1,10 @@
 # Fighting-online-abuse
-NLP based project to fight online abuse using machine learning.
-Compared results of various traditional machine learning algorithms and neural network on pre-processed data to get the best result.
+
+Introduction:
+
+In today’s world social media has become an integral part of life. Everyday people are not only interacting with family, friends but also with strangers. This is where things get a little worrisome. With increasing number of people on social media there is also an increase in people who do criminal activities like cyberbullying, harassment etc as a repercussion to which Discussing things you care about can be difficult. 
+The threat of abuse and harassment online means that many people stop expressing themselves and give up on seeking different opinions. Platforms struggle to effectively facilitate conversations, leading many communities to limit or completely shut down user comments.
+
+Project description:
+
+It is an NLP based project to fight online abuse using machine learning. The comments were first cleaned to remove stopwords, punctuations and non-alphanumeric characters. Then stemming was done to reduce corpus size. Finally various traditional machine learning algorithms and neural network were applied on pre-processed data to get the best result.
